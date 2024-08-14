@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @MadingDaniel
-- 👀 I’m interested in full stack software development
-- 🌱 I’m currently learning pyhton, javascript and many more..
-  
-
-<!---
-MadingDaniel/MadingDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Third-year Software Engineering student with a focus on Web Development, Mobile Application Development, and Blockchain. Passionate about building innovative and scalable solutions, with hands-on experience in Solidity and Ethereum layer-2 scaling technologies.
